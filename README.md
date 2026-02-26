@@ -1,5 +1,5 @@
 # data-analyst-journey
-Learning path^
+Learning path
 - SQL
 - Python
 - BI
